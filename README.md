@@ -2,11 +2,6 @@
 
 This project implements an advanced retrieval system designed to answer complex **biomedical causal "WHY?" queries** by leveraging a hybrid approach that combines modern semantic search, and a causal knowledge graph.
 
-## Team Members
-- Rujuta Tambewagh([Rujuta99](https://github.com/Rujuta99))
-- Varsha Balaji([Varsha-balaji4](https://github.com/Varsha-Balaji4))
-- Jaimin Babaria([jbaba5](https://github.com/jbaba5))
-
 ## 🌟 Project Overview
 
 The system aims to improve search result relevance, especially for finding **causal evidence**, by integrating two scoring mechanisms: semantic and causal scores.
